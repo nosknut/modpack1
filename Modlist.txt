@@ -123,9 +123,17 @@ Twilight forest
 Morph
 -- https://minecraft.curseforge.com/projects/morph
 
+
 //Yet to be seen
 Voltz Engine (probably only 1.7.10)
 -- https://openeye.openmods.info/mod/voltzengine/1.12.2
+
+//Dependencies:
+
+Codechickenlib
+-- https://minecraft.curseforge.com/projects/codechicken-lib-1-8
+iChunUtil
+-- https://minecraft.curseforge.com/projects/ichunutil
 
 
 

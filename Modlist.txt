@@ -18,6 +18,7 @@ Funky Locomotion
 Galacticraft
 IC2
 ICBM
+MCHeli
 Magical Crops
 Mekanism
 Mine Factory Reloaded

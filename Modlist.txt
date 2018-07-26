@@ -98,7 +98,41 @@ Immersive Engineering
 -- https://minecraft.curseforge.com/projects/immersive-engineering/files
 Voltz Engine (probably only 1.7.10)
 -- https://openeye.openmods.info/mod/voltzengine/1.12.2
+Mocreatures mod
+-- http://www.9minecraft.net/mocreatures-mod/
+Nether metals mod
+-- https://minecraft.curseforge.com/projects/nether-metals
+Forestry
+-- https://minecraft.curseforge.com/projects/forestry/files
+Backpacks
+-- http://www.9minecraft.net/backpacks-mod/
+Valkyrien Warfare
+-- https://minecraft.curseforge.com/projects/valkyrien-warfare/files
+Chunk loader (Chicken chunks)
+-- https://minecraft.curseforge.com/projects/chunkloader-simple
+Ender STorage
+-- https://minecraft.curseforge.com/projects/ender-storage-1-8
+Natura
+-- https://minecraft.curseforge.com/projects/natura/files
+Mystcraft
+-- https://minecraft.curseforge.com/projects/mystcraft
+Portalgun
+-- https://minecraft.curseforge.com/projects/portal-gun
+Project red
+-- https://minecraft.curseforge.com/projects/project-red-base
+Twilight forest
+-- https://minecraft.curseforge.com/projects/the-twilight-fores
+Morph
+-- https://minecraft.curseforge.com/projects/morph
 
+
+
+
+
+
+1.11
+Progressive automation
+-- https://minecraft.curseforge.com/projects/progressive-automation-early-miner
 1.10.2
 Railcraft
 -- https://minecraft.curseforge.com/projects/railcraft/files
@@ -106,6 +140,10 @@ Modular Powersuits
 -- https://minecraft.curseforge.com/projects/modular-powersuits/files
 Gravi suit
 -- http://www.9minecraft.net/gravitation-suite-addon/
+
+
+
+
 
 1.7.10
 Warpdrive
@@ -124,16 +162,37 @@ Traincraft
 -- https://minecraft.curseforge.com/projects/traincraft/files
 Remain in motion (Redstone in motion)
 -- https://minecraft.curseforge.com/projects/remain-in-motion
+Qcraft
+-- https://minecraft.curseforge.com/projects/qcraft
+Nuclear control 2
+-- https://minecraft.curseforge.com/projects/nuclear-control-2
+MFR magical crops compatabillity mod
+-- https://minecraft.curseforge.com/projects/mfr-magical-crops-compatibility
+
+
+
+
 
 1.7.2
 Metaworlds
 -- https://minecraft.curseforge.com/projects/metaworlds-mod/files
 Xaeros minimap
 -- https://minecraft.curseforge.com/projects/xaeros-minimap/files
+
+
+
+
 1.6.4
 AE1
 -- https://minecraft.curseforge.com/projects/applied-energistics-1
 
 
+
+
+
 Formatting (for use in find and replace tools):
 replace first letter with uppercase: (\s|\n)([a-z])  ->  $1\u$2
+
+
+Dump irrelevant links here
+

@@ -96,8 +96,6 @@ Not enough items (NEI)
 -- https://minecraft.curseforge.com/projects/not-enough-items-1-8
 Immersive Engineering
 -- https://minecraft.curseforge.com/projects/immersive-engineering/files
-Voltz Engine (probably only 1.7.10)
--- https://openeye.openmods.info/mod/voltzengine/1.12.2
 Mocreatures mod
 -- http://www.9minecraft.net/mocreatures-mod/
 Nether metals mod
@@ -121,10 +119,13 @@ Portalgun
 Project red
 -- https://minecraft.curseforge.com/projects/project-red-base
 Twilight forest
--- https://minecraft.curseforge.com/projects/the-twilight-fores
+-- https://minecraft.curseforge.com/projects/the-twilight-forest
 Morph
 -- https://minecraft.curseforge.com/projects/morph
 
+//Yet to be seen
+Voltz Engine (probably only 1.7.10)
+-- https://openeye.openmods.info/mod/voltzengine/1.12.2
 
 
 

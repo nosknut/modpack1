@@ -9,8 +9,8 @@ Chisel
 Computercraft
 Damage Indicators
 EnderIO
-Extracells
 Extra utilleties
+Extracells
 Flans guns
 Flans vihecles
 Frames
@@ -32,12 +32,13 @@ Schematica
 Thermal Expansion
 Voltz Core
 Warpdrive
-advanced solar panels
-baubles
-customnpcs
-holoinventory
-nei
-openblocks
-railcraft
-tinkersconstruct
-treecapacitor
+Advanced solar panels
+Baubles
+Customnpcs
+Holoinventory
+Nei
+Openblocks
+Railcraft
+Thaumcraft
+Tinkersconstruct
+Treecapacitor

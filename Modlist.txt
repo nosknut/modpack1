@@ -1,30 +1,42 @@
 AE2
-Warpdrive
-Buildcraft
-Mekanism
-Thermal Expansion
+AE2 Stuff
+Advanced Repulsion Systems
 Advanced Rocetry
-Modular powersuits
-Magical Crops
+Atomic Science
 Big Reactors
+Buildcraft
+Chisel
+Computercraft
+Damage Indicators
 EnderIO
-RFTools
-Pneumaticraft
-Mine Factory Reloaded
-ICBM
+Extracells
+Extra utilleties
 Flans guns
 Flans vihecles
-Computercraft
-Open Computers
 Frames
 Funky Locomotion
-Damage Indicators
-Schematica
-AE2 Stuff
-Extracells
-SGCraft
-Atomic Science
 Galacticraft
+IC2
+ICBM
+Magical Crops
+Mekanism
+Mine Factory Reloaded
 Minimap
-Chisel
+Modular powersuits
+Open Computers
+Pneumaticraft
+RFTools
+SGCraft
+Schematica
+Thermal Expansion
 Voltz Core
+Warpdrive
+advanced solar panels
+baubles
+customnpcs
+holoinventory
+nei
+openblocks
+railcraft
+tinkersconstruct
+treecapacitor

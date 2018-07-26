@@ -1,4 +1,4 @@
-AE2
+
 AE2 Stuff
 Advanced Repulsion Systems
 Advanced Rocetry
@@ -47,6 +47,11 @@ Treecapacitor
 Voltz Core
 Warpdrive
 
+1.12.2
+AE2, https://minecraft.curseforge.com/projects/applied-energistics-2/files/2582952;
+
+
+1.7.10
 
 
 

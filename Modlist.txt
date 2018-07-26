@@ -2,9 +2,10 @@ AE2
 AE2 Stuff
 Advanced Repulsion Systems
 Advanced Rocetry
-Advanced solar panels
+Advanced Solar Panels
 Atomic Science
 Baubles
+Biomes O Plenty
 Big Reactors
 Buildcraft
 Chisel
@@ -12,16 +13,17 @@ Computercraft
 Customnpcs
 Damage Indicators
 EnderIO
-Extra utilleties
+Extra Utilleties
 Extracells
-Flans guns
-Flans vihecles
+Flans Guns
+Flans Vihecles
 Frames
 Funky Locomotion
 Galacticraft
 Holoinventory
 IC2
 ICBM
+Inventory Tweaks
 MCHeli
 Magical Crops
 Mekanism
@@ -29,7 +31,7 @@ Metaworlds
 Mine Factory Reloaded
 Minimap
 Modular Forcefield System
-Modular powersuits
+Modular Powersuits
 Nei
 Open Computers
 Openblocks
@@ -40,7 +42,16 @@ SGCraft
 Schematica
 Thaumcraft
 Thermal Expansion
-Tinkersconstruct
+Tinkers construct
 Treecapacitor
 Voltz Core
 Warpdrive
+
+
+
+
+Formatting:
+replace first letter with uppercase: (\s|\n)([a-z])  ->  $1\u$2
+
+
+

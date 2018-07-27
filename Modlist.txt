@@ -1,247 +1,137 @@
 Names only:
 
-
 Names with version and download link:
 
 1.12.2
-AE2
--- https://minecraft.curseforge.com/projects/applied-energistics-2/files/2582952
-Advanced Rocketry
--- https://minecraft.curseforge.com/projects/advanced-rocketry
-Treecapacitor
--- http://www.9minecraft.net/treecapitator-mod/
-Tinkers construct
--- https://minecraft.curseforge.com/projects/tinkers-construct/files
-Mekanism
--- http://aidancbrady.com/mekanism/download/
-Thermal Expansion
--- https://minecraft.curseforge.com/projects/thermalexpansion/files 
-EnderIO
--- https://minecraft.curseforge.com/projects/ender-io/files
-RFTools
--- https://minecraft.curseforge.com/projects/rftools/files
-Thaumcraft
--- https://minecraft.curseforge.com/projects/thaumcraft/files
-Schematica
--- https://minecraft.curseforge.com/projects/schematica/files
-Thermal Expansion
--- https://minecraft.curseforge.com/projects/thermalexpansion/files
-RFTools
--- https://minecraft.curseforge.com/projects/rftools/files
-Stargate Atlantiscraft (SGcraft)
--- http://www.9minecraft.net/gregs-sg-craft-mod/
-Open Computers
--- https://www.curseforge.com/minecraft/mc-mods/opencomputers/files
-Openblocks
--- https://minecraft.curseforge.com/projects/openblocks/files
-IC2
--- https://minecraft.curseforge.com/projects/industrial-craft/files
-Inventory Tweaks
--- https://minecraft.curseforge.com/projects/inventory-tweaks/files
-Just enough items
--- http://www.9minecraft.net/just-enough-items-mod/
-MFFS
--- https://minecraft.curseforge.com/projects/modular-forcefield-system/files
-ICBM
--- https://minecraft.curseforge.com/projects/icbm-classic
-Holoinventory
--- https://minecraft.curseforge.com/projects/holoinventory/files
-Funky Locomotion
--- https://minecraft.curseforge.com/projects/funky-locomotion/files
-Industrial Foregoing Mod (MFR Reinvented)
--- http://www.9minecraft.net/industrial-foregoing-mod/
-Galacticraft
--- https://micdoodle8.com/mods/galacticraft/downloads
-Extracells 2
--- https://minecraft.curseforge.com/projects/extracells2
-Extra Utilities
--- https://minecraft.curseforge.com/projects/extra-utilities/files
-Flans Mod
--- http://www.9minecraft.net/flans-mod/
-Damage Indicators
--- https://minecraft.curseforge.com/projects/torohealth-damage-indicators/files
-CustomNPCs
--- https://minecraft.curseforge.com/projects/custom-npcs/files
-Chisel
--- https://minecraft.curseforge.com/projects/chisel/files
-Computer CRaft
--- https://minecraft.curseforge.com/projects/computercraft
-Buildcraft
--- https://minecraft.curseforge.com/projects/buildcraft/files
-Biomes o Plenty
--- https://minecraft.curseforge.com/projects/biomes-o-plenty/files
-Advanced Solar Panels
--- https://minecraft.curseforge.com/projects/advanced-solar-panels
-AE2 Stuff
--- https://minecraft.curseforge.com/projects/ae2-stuff
-Baubles
--- https://minecraft.curseforge.com/projects/baubles/files
-Extreme Reactors
--- https://minecraft.curseforge.com/projects/extreme-reactors
-Nuclear Physics (Atomic Science)
--- https://minecraft.curseforge.com/projects/nuclear-physics
-Open modular turrets
--- https://minecraft.curseforge.com/projects/openmodularturrets
-Securitycraft
--- https://minecraft.curseforge.com/projects/security-craft/files
-Refined storage
--- https://minecraft.curseforge.com/projects/refined-storage/files
-Jurassic Craft
--- https://minecraft.curseforge.com/projects/jurassicraft
-Magical Crops
--- https://minecraft.curseforge.com/projects/mystical-agriculture
-Pneumaticraft Repressurized (duh)
--- https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized
-Not enough items (NEI)
--- https://minecraft.curseforge.com/projects/not-enough-items-1-8
-Immersive Engineering
--- https://minecraft.curseforge.com/projects/immersive-engineering/files
-Mocreatures mod
--- http://www.9minecraft.net/mocreatures-mod/
-Nether metals mod
--- https://minecraft.curseforge.com/projects/nether-metals
-Forestry
--- https://minecraft.curseforge.com/projects/forestry/files
-Backpacks
--- http://www.9minecraft.net/backpacks-mod/
-Valkyrien Warfare
--- https://minecraft.curseforge.com/projects/valkyrien-warfare/files
-Chunk loader (Chicken chunks)
--- https://minecraft.curseforge.com/projects/chunkloader-simple
-Ender STorage
--- https://minecraft.curseforge.com/projects/ender-storage-1-8
-Natura
--- https://minecraft.curseforge.com/projects/natura/files
-Mystcraft
--- https://minecraft.curseforge.com/projects/mystcraft
-Portalgun
--- https://minecraft.curseforge.com/projects/portal-gun
-Project red
--- https://minecraft.curseforge.com/projects/project-red-base
-Twilight forest
--- https://minecraft.curseforge.com/projects/the-twilight-forest
-Morph
--- https://minecraft.curseforge.com/projects/morph
+
+//Currently in pack:
+
+AE2 -- https://minecraft.curseforge.com/projects/applied-energistics-2/files/2582952
+AE2 Stuff -- https://minecraft.curseforge.com/projects/ae2-stuff
+Advanced Rocketry -- https://minecraft.curseforge.com/projects/advanced-rocketry
+Advanced Solar Panels -- https://minecraft.curseforge.com/projects/advanced-solar-panels
+Backpacks -- http://www.9minecraft.net/backpacks-mod/
+Baubles -- https://minecraft.curseforge.com/projects/baubles/files
+Biomes o Plenty -- https://minecraft.curseforge.com/projects/biomes-o-plenty/files
+Buildcraft -- https://minecraft.curseforge.com/projects/buildcraft/files
+Codechickenlib -- https://minecraft.curseforge.com/projects/codechicken-lib-1-8
+Computer CRaft -- https://minecraft.curseforge.com/projects/computercraft
+Cucumber -- https://minecraft.curseforge.com/projects/cucumber/files
+CustomNPCs -- https://minecraft.curseforge.com/projects/custom-npcs/files
+Damage Indicators -- https://minecraft.curseforge.com/projects/torohealth-damage-indicators/files
+Ender STorage -- https://minecraft.curseforge.com/projects/ender-storage-1-8
+EnderIO -- https://minecraft.curseforge.com/projects/ender-io/files
+Endercore -- https://minecraft.curseforge.com/projects/endercore
+Extra Utilities -- https://minecraft.curseforge.com/projects/extra-utilities/files
+Extracells 2 -- https://minecraft.curseforge.com/projects/extracells2
+Extreme Reactors -- https://minecraft.curseforge.com/projects/extreme-reactors
+Forestry -- https://minecraft.curseforge.com/projects/forestry/files
+Funky Locomotion -- https://minecraft.curseforge.com/projects/funky-locomotion/files
+Galacticraft -- https://micdoodle8.com/mods/galacticraft/downloads
+Holoinventory -- https://minecraft.curseforge.com/projects/holoinventory/files
+IC2 -- https://minecraft.curseforge.com/projects/industrial-craft/files
+ICBM -- https://minecraft.curseforge.com/projects/icbm-classic
+Immersive Engineering -- https://minecraft.curseforge.com/projects/immersive-engineering/files
+In Game Wiki -- https://minecraft.curseforge.com/projects/in-game-wiki-mod/files
+Industrial Foregoing Mod (MFR Reinvented) -- http://www.9minecraft.net/industrial-foregoing-mod/
+Inventory Tweaks -- https://minecraft.curseforge.com/projects/inventory-tweaks/files
+Jurassic Craft -- https://minecraft.curseforge.com/projects/jurassicraft
+Just enough items -- http://www.9minecraft.net/just-enough-items-mod/
+LibVulpes -- https://minecraft.curseforge.com/projects/libvulpes/files
+Llibrary -- https://minecraft.curseforge.com/projects/llibrary/files
+Mantle -- https://minecraft.curseforge.com/projects/mantle/files
+Mekanism -- http://aidancbrady.com/mekanism/download/
+Mocreatures mod -- http://www.9minecraft.net/mocreatures-mod/
+Morph -- https://minecraft.curseforge.com/projects/morph
+Mystcraft -- https://minecraft.curseforge.com/projects/mystcraft
+Natura -- https://minecraft.curseforge.com/projects/natura/files
+Not enough items (NEI) -- https://minecraft.curseforge.com/projects/not-enough-items-1-8
+Nuclear Physics (Atomic Science) -- https://minecraft.curseforge.com/projects/nuclear-physics
+OMLib -- https://minecraft.curseforge.com/projects/omlib
+Open Computers -- https://www.curseforge.com/minecraft/mc-mods/opencomputers/files
+Open mods lib -- https://minecraft.curseforge.com/projects/openmodslib/files
+Open modular turrets -- https://minecraft.curseforge.com/projects/openmodularturrets
+Openblocks -- https://minecraft.curseforge.com/projects/openblocks/files
+Pneumaticraft Repressurized (duh) -- https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized
+Portalgun -- https://minecraft.curseforge.com/projects/portal-gun
+Project red -- https://minecraft.curseforge.com/projects/project-red-base
+RFTools -- https://minecraft.curseforge.com/projects/rftools/files
+Refined storage -- https://minecraft.curseforge.com/projects/refined-storage/files
+Schematica -- https://minecraft.curseforge.com/projects/schematica/files
+Securitycraft -- https://minecraft.curseforge.com/projects/security-craft/files
+Stargate Atlantiscraft (SGcraft) -- http://www.9minecraft.net/gregs-sg-craft-mod/
+Tesla core lb -- https://minecraft.curseforge.com/projects/tesla-core-lib/files
+Thaumcraft -- https://minecraft.curseforge.com/projects/thaumcraft/files
+Thermal Expansion -- https://minecraft.curseforge.com/projects/thermalexpansion/files 
+Tinkers construct -- https://minecraft.curseforge.com/projects/tinkers-construct/files
+Treecapacitor -- http://www.9minecraft.net/treecapitator-mod/
+Twilight forest -- https://minecraft.curseforge.com/projects/the-twilight-forest
+Valkyrien Warfare -- https://minecraft.curseforge.com/projects/valkyrien-warfare/files
+Zerocore -- https://minecraft.curseforge.com/projects/zerocore
+bdlib -- https://minecraft.curseforge.com/projects/bdlib/files
+cofhcore -- https://minecraft.curseforge.com/projects/cofhcore/files
+cofhworld -- https://minecraft.curseforge.com/projects/cofh-world/file
+foreglin -- https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files
+forge multipart cbe -- https://minecraft.curseforge.com/projects/forge-multipart-cbe/files
+iChunUtil -- https://minecraft.curseforge.com/projects/ichunutil
+immersive petroleum -- https://minecraft.curseforge.com/projects/immersive-petroleum/files
+immersive tech -- https://minecraft.curseforge.com/projects/immersive-tech/files
+lunatriuscore -- https://minecraft.curseforge.com/projects/lunatriuscore/files
+mcjtylib -- https://minecraft.curseforge.com/projects/mcjtylib/files
+mrtjpcore -- https://minecraft.curseforge.com/projects/mrtjpcore/files
+my Chunk loader (Chicken chunks) -- https://minecraft.curseforge.com/projects/chunkloader-simple
+mystical agriculture(Magical Crops) -- https://minecraft.curseforge.com/projects/mystical-agriculture
+redstoneflux -- https://minecraft.curseforge.com/projects/redstone-flux/files
+thermalfoundation -- https://minecraft.curseforge.com/projects/thermal-foundation/files
+
+
+//Not currently in pack (still 1.12.2):
+
+Chisel -- https://minecraft.curseforge.com/projects/chisel/files
+Flans Mod -- http://www.9minecraft.net/flans-mod/
+MFFS -- https://minecraft.curseforge.com/projects/modular-forcefield-system/files
+Nether metals mod -- https://minecraft.curseforge.com/projects/nether-metals
 
 
 
-
-
-
-//Yet to be seen
-Voltz Engine (probably only 1.7.10)
--- https://openeye.openmods.info/mod/voltzengine/1.12.2
-
-//Dependencies:
-
-Codechickenlib
--- https://minecraft.curseforge.com/projects/codechicken-lib-1-8
-iChunUtil
--- https://minecraft.curseforge.com/projects/ichunutil
-Endercore
--- https://minecraft.curseforge.com/projects/endercore
-Zerocore
--- https://minecraft.curseforge.com/projects/zerocore
-Cucumber
--- https://minecraft.curseforge.com/projects/cucumber/files
-Tesla core lb
--- https://minecraft.curseforge.com/projects/tesla-core-lib/files
-Mantle
--- https://minecraft.curseforge.com/projects/mantle/files
-Open mods lib
--- https://minecraft.curseforge.com/projects/openmodslib/files
-OMLib
--- https://minecraft.curseforge.com/projects/omlib
-nrtjpcore
--- https://minecraft.curseforge.com/projects/mrtjpcore/files
-mcjtylib
--- https://minecraft.curseforge.com/projects/mcjtylib/files
-lunatriuscore
--- https://minecraft.curseforge.com/projects/lunatriuscore/files
-cofhcore
--- https://minecraft.curseforge.com/projects/cofhcore/files
-Llibrary
--- https://minecraft.curseforge.com/projects/llibrary/files
-LibVulpes
--- https://minecraft.curseforge.com/projects/libvulpes/files
-bdlib
--- https://minecraft.curseforge.com/projects/bdlib/files
-redstoneflux
--- https://minecraft.curseforge.com/projects/redstone-flux/files
-foreglin
--- https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files
-thermalfoundation
--- https://minecraft.curseforge.com/projects/thermal-foundation/files
-cofhworld
--- https://minecraft.curseforge.com/projects/cofh-world/file
-forge multipart cbe
--- https://minecraft.curseforge.com/projects/forge-multipart-cbe/files
-
-
-
-
-1.11
-Progressive automation
--- https://minecraft.curseforge.com/projects/progressive-automation-early-miner
 1.10.2
-Railcraft
--- https://minecraft.curseforge.com/projects/railcraft/files
-Modular Powersuits
--- https://minecraft.curseforge.com/projects/modular-powersuits/files
-Gravi suit
--- http://www.9minecraft.net/gravitation-suite-addon/
-
-
+Gravi suit -- http://www.9minecraft.net/gravitation-suite-addon/
+Modular Powersuits -- https://minecraft.curseforge.com/projects/modular-powersuits/files
+Progressive automation -- https://minecraft.curseforge.com/projects/progressive-automation-early-miner
+Railcraft -- https://minecraft.curseforge.com/projects/railcraft/files
 
 
 
 1.7.10
-Warpdrive
--- https://minecraft.curseforge.com/projects/warpdrive/files
-MCHeli
--- https://minecraft.curseforge.com/projects/mcheli-minecraft-helicopter-mod/files
-ICBM2
--- https://minecraft.curseforge.com/projects/icbm/files
-Frames
--- http://www.9minecraft.net/frames-mod/
-Reactor Craft
--- http://www.9minecraft.net/reactorcraft-mod/
-Advanced repulsion systems
--- https://openeye.openmods.info/mod/advancedrepulsionsystems
-Traincraft
--- https://minecraft.curseforge.com/projects/traincraft/files
-Remain in motion (Redstone in motion)
--- https://minecraft.curseforge.com/projects/remain-in-motion
-Qcraft
--- https://minecraft.curseforge.com/projects/qcraft
-Nuclear control 2
--- https://minecraft.curseforge.com/projects/nuclear-control-2
-MFR magical crops compatabillity mod
--- https://minecraft.curseforge.com/projects/mfr-magical-crops-compatibility
-
-
+Advanced repulsion systems -- https://openeye.openmods.info/mod/advancedrepulsionsystems
+Frames -- http://www.9minecraft.net/frames-mod/
+ICBM2 -- https://minecraft.curseforge.com/projects/icbm/files
+MCHeli -- https://minecraft.curseforge.com/projects/mcheli-minecraft-helicopter-mod/files
+MFR magical crops compatabillity mod -- https://minecraft.curseforge.com/projects/mfr-magical-crops-compatibility
+Nuclear control 2 -- https://minecraft.curseforge.com/projects/nuclear-control-2
+Qcraft -- https://minecraft.curseforge.com/projects/qcraft
+Reactor Craft -- http://www.9minecraft.net/reactorcraft-mod/
+Remain in motion (Redstone in motion) -- https://minecraft.curseforge.com/projects/remain-in-motion
+Traincraft -- https://minecraft.curseforge.com/projects/traincraft/files
+Voltz Engine (probably only 1.7.10) -- https://openeye.openmods.info/mod/voltzengine/1.12.2
+Warpdrive -- https://minecraft.curseforge.com/projects/warpdrive/files
 
 
 
 1.7.2
-Metaworlds
--- https://minecraft.curseforge.com/projects/metaworlds-mod/files
-Xaeros minimap
--- https://minecraft.curseforge.com/projects/xaeros-minimap/files
-
+Metaworlds -- https://minecraft.curseforge.com/projects/metaworlds-mod/files
+Xaeros minimap -- https://minecraft.curseforge.com/projects/xaeros-minimap/files
 
 
 
 1.6.4
-AE1
--- https://minecraft.curseforge.com/projects/applied-energistics-1
-
-
+AE1 -- https://minecraft.curseforge.com/projects/applied-energistics-1
 
 
 
 Formatting (for use in find and replace tools):
 replace first letter with uppercase: (\s|\n)([a-z])  ->  $1\u$2
+
 
 
 Dump irrelevant links here

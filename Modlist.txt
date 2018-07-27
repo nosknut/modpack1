@@ -168,6 +168,12 @@ bdlib
 -- https://minecraft.curseforge.com/projects/bdlib/files
 redstoneflux
 -- https://minecraft.curseforge.com/projects/redstone-flux/files
+foreglin
+-- https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files
+thermalfoundation
+-- https://minecraft.curseforge.com/projects/thermal-foundation/files
+cofhworld
+-- https://minecraft.curseforge.com/projects/cofh-world/files
 
 
 

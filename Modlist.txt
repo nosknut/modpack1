@@ -162,8 +162,12 @@ cofhcore
 -- https://minecraft.curseforge.com/projects/cofhcore/files
 Llibrary
 -- https://minecraft.curseforge.com/projects/llibrary/files
-
-
+LibVulpes
+-- https://minecraft.curseforge.com/projects/libvulpes/files
+bdlib
+-- https://minecraft.curseforge.com/projects/bdlib/files
+redstoneflux
+-- https://minecraft.curseforge.com/projects/redstone-flux/files
 
 
 

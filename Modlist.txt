@@ -173,7 +173,9 @@ foreglin
 thermalfoundation
 -- https://minecraft.curseforge.com/projects/thermal-foundation/files
 cofhworld
--- https://minecraft.curseforge.com/projects/cofh-world/files
+-- https://minecraft.curseforge.com/projects/cofh-world/file
+forge multipart cbe
+-- https://minecraft.curseforge.com/projects/forge-multipart-cbe/files
 
 
 

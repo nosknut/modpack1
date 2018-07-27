@@ -124,6 +124,10 @@ Morph
 -- https://minecraft.curseforge.com/projects/morph
 
 
+
+
+
+
 //Yet to be seen
 Voltz Engine (probably only 1.7.10)
 -- https://openeye.openmods.info/mod/voltzengine/1.12.2
@@ -134,6 +138,30 @@ Codechickenlib
 -- https://minecraft.curseforge.com/projects/codechicken-lib-1-8
 iChunUtil
 -- https://minecraft.curseforge.com/projects/ichunutil
+Endercore
+-- https://minecraft.curseforge.com/projects/endercore
+Zerocore
+-- https://minecraft.curseforge.com/projects/zerocore
+Cucumber
+-- https://minecraft.curseforge.com/projects/cucumber/files
+Tesla core lb
+-- https://minecraft.curseforge.com/projects/tesla-core-lib/files
+Mantle
+-- https://minecraft.curseforge.com/projects/mantle/files
+Open mods lib
+-- https://minecraft.curseforge.com/projects/openmodslib/files
+OMLib
+-- https://minecraft.curseforge.com/projects/omlib
+nrtjpcore
+-- https://minecraft.curseforge.com/projects/mrtjpcore/files
+mcjtylib
+-- https://minecraft.curseforge.com/projects/mcjtylib/files
+lunatriuscore
+-- https://minecraft.curseforge.com/projects/lunatriuscore/files
+cofhcore
+-- https://minecraft.curseforge.com/projects/cofhcore/files
+Llibrary
+-- https://minecraft.curseforge.com/projects/llibrary/files
 
 
 

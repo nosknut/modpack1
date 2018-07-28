@@ -45,7 +45,6 @@ Mantle -- https://minecraft.curseforge.com/projects/mantle/files
 Mekanism -- http://aidancbrady.com/mekanism/download/
 MekanismGenerators -- http://aidancbrady.com/mekanism/download/
 MekanismTools -- http://aidancbrady.com/mekanism/download/
-Mocreatures mod -- http://www.9minecraft.net/mocreatures-mod/
 Morph -- https://minecraft.curseforge.com/projects/morph
 Mystcraft -- https://minecraft.curseforge.com/projects/mystcraft
 Natura -- https://minecraft.curseforge.com/projects/natura/files

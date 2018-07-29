@@ -1,5 +1,20 @@
 resourcePacks:["PureBDcraft 256x MC112.zip"]
 guiScale:2
-maxFps:70
-soundCategory_music:0.01
+gamma:1
 renderDistance:10
+maxFps:70
+fullscreen:false
+enableVsync:false
+fancyGraphics:false
+renderClouds:false
+
+advancedItemTooltips:true
+soundCategory_music:0
+soundCategory_weather:0.5
+soundCategory_hostile:0.75
+key_key.journeymap.zoom_in:78
+key_key.journeymap.zoom_out:74
+key_Mekanism Item Mode Switch:50:SHIFT
+key_Mekanism Armor Mode Switch:50:CONTROL
+key_Mekanism Feet Mode Switch:50:ALT
+key_nei.options.keys.gui.potion:0

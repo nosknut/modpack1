@@ -1,4 +1,4 @@
-resourcePacks:["PureBDcraft 512x MC112.zip"]
+resourcePacks:["PureBDcraft 256x MC112.zip"]
 guiScale:2
 maxFps:75
 soundCategory_music:0.01

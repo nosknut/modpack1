@@ -1,5 +1,5 @@
 resourcePacks:["PureBDcraft 256x MC112.zip"]
-guiScale:2
+guiScale:3
 gamma:1
 renderDistance:10
 maxFps:70

@@ -28,3 +28,4 @@ ofLazyChunkLoading:true
 
 ofShowFps:true
 ofFullscreenMode:1920x1080
+ofShowGlErrors:false

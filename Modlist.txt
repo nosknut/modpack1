@@ -62,6 +62,7 @@ Optifine -- https://optifine.net/downloads
 Pneumaticraft Repressurized (duh) -- https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized
 Portalgun -- https://minecraft.curseforge.com/projects/portal-gun
 Project red -- https://minecraft.curseforge.com/projects/project-red-base
+Realistic Item Drops -- https://minecraft.curseforge.com/projects/realistic-item-drops
 RFTools -- https://minecraft.curseforge.com/projects/rftools/files
 Refined storage -- https://minecraft.curseforge.com/projects/refined-storage/files
 Schematica -- https://minecraft.curseforge.com/projects/schematica/files

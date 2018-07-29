@@ -1,5 +1,5 @@
 resourcePacks:["PureBDcraft 256x MC112.zip"]
 guiScale:2
-maxFps:75
+maxFps:70
 soundCategory_music:0.01
 renderDistance:10

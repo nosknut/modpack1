@@ -1,14 +1,15 @@
 ofRainSplash:false
-ofClouds:3
+ofClouds:1
 ofTrees:2
-ofSky:false
+ofSky:true
 ofFogType:3
 ofTranslucentBlocks:2
 ofDroppedItems:0
 ofVignette:1
-ofRain:3
-ofStars:false
-ofSmoothBiomes:false
+ofRain:1
+ofStars:true
+ofSunMoon:true
+ofSmoothBiomes:true
 ofDynamicLights:2
 
 ofClearWater:true

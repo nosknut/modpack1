@@ -100,6 +100,7 @@ thermalfoundation -- https://minecraft.curseforge.com/projects/thermal-foundatio
 Power Adapters -- https://minecraft.curseforge.com/projects/power-adapters/files
 Better FPS -- http://www.9minecraft.net/betterfps-mod/
 What is that -- https://minecraft.curseforge.com/projects/wit-what-is-that/files
+Worldedit -- https://minecraft.curseforge.com/projects/worldedit/files
 
 
 //Not currently in pack (still 1.12.2):

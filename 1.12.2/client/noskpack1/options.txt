@@ -5,8 +5,8 @@ renderDistance:10
 maxFps:70
 fullscreen:false
 enableVsync:false
-fancyGraphics:false
-renderClouds:false
+fancyGraphics:true
+renderClouds:fast
 
 advancedItemTooltips:true
 soundCategory_music:0

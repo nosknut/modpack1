@@ -35,6 +35,7 @@ Holoinventory -- https://minecraft.curseforge.com/projects/holoinventory/files
 IC2 -- https://minecraft.curseforge.com/projects/industrial-craft/files
 ICBM -- https://minecraft.curseforge.com/projects/icbm-classic
 Immersive Engineering -- https://minecraft.curseforge.com/projects/immersive-engineering/files
+Ironchests - https://minecraft.curseforge.com/projects/iron-chests/files
 In Game Wiki -- https://minecraft.curseforge.com/projects/in-game-wiki-mod/files
 Industrial Foregoing Mod (MFR Reinvented) -- http://www.9minecraft.net/industrial-foregoing-mod/
 Inventory Tweaks -- https://minecraft.curseforge.com/projects/inventory-tweaks/files

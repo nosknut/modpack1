@@ -29,6 +29,7 @@ Extracells 2 -- https://minecraft.curseforge.com/projects/extracells2
 Extreme Reactors -- https://minecraft.curseforge.com/projects/extreme-reactors
 Flans Mod -- http://www.9minecraft.net/flans-mod/
 Forestry -- https://minecraft.curseforge.com/projects/forestry/files
+Forge Multipart CBE -- https://minecraft.curseforge.com/projects/forge-multipart-cbe/files
 Funky Locomotion -- https://minecraft.curseforge.com/projects/funky-locomotion/files
 Galacticraft -- https://micdoodle8.com/mods/galacticraft/downloads
 Holoinventory -- https://minecraft.curseforge.com/projects/holoinventory/files

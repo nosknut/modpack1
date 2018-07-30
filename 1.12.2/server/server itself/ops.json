@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "77f77342-9c14-49d8-920a-9833ea720b7f",
+    "name": "nosknut",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,1 +1,4 @@
 server.zip filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+lastWorkingBuild/ filter=lfs diff=lfs merge=lfs -text
+server filter=lfs diff=lfs merge=lfs -text

@@ -159,7 +159,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.7247183,0.66745496,1.0</skyColor>
-			<gravitationalMultiplier>117</gravitationalMultiplier>
+			<gravitationalMultiplier>116</gravitationalMultiplier>
 			<orbitalDistance>158</orbitalDistance>
 			<orbitalPhi>-2</orbitalPhi>
 			<rotationalPeriod>14607</rotationalPeriod>
@@ -640,7 +640,7 @@
 			<isKnown>false</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>0.8,0.97172433,0.3956486</skyColor>
-			<gravitationalMultiplier>117</gravitationalMultiplier>
+			<gravitationalMultiplier>116</gravitationalMultiplier>
 			<orbitalDistance>172</orbitalDistance>
 			<orbitalPhi>6</orbitalPhi>
 			<rotationalPeriod>14607</rotationalPeriod>

@@ -13,7 +13,6 @@ Advanced Solar Panels -- https://minecraft.curseforge.com/projects/advanced-sola
 Backpacks -- http://www.9minecraft.net/backpacks-mod/
 Baubles -- https://minecraft.curseforge.com/projects/baubles/files
 Biome Bundle -- https://minecraft.curseforge.com/projects/biome-bundle/files
-Biomes o Plenty -- https://minecraft.curseforge.com/projects/biomes-o-plenty/files
 Bookshelf -- https://minecraft.curseforge.com/projects/bookshelf/files
 Buildcraft -- https://minecraft.curseforge.com/projects/buildcraft/files
 Codechickenlib -- https://minecraft.curseforge.com/projects/codechicken-lib-1-8
@@ -107,10 +106,13 @@ Worldedit -- https://minecraft.curseforge.com/projects/worldedit/files
 
 
 //Not currently in pack (still 1.12.2):
-
+//Because of crash or corruption
 Chisel -- https://minecraft.curseforge.com/projects/chisel/files
 MFFS -- https://minecraft.curseforge.com/projects/modular-forcefield-system/files
 Nether metals mod -- https://minecraft.curseforge.com/projects/nether-metals
+
+//Because its not needed
+Biomes o Plenty -- https://minecraft.curseforge.com/projects/biomes-o-plenty/files
 
 
 

@@ -12,6 +12,7 @@ Advanced Rocketry -- https://minecraft.curseforge.com/projects/advanced-rocketry
 Advanced Solar Panels -- https://minecraft.curseforge.com/projects/advanced-solar-panels
 Backpacks -- http://www.9minecraft.net/backpacks-mod/
 Baubles -- https://minecraft.curseforge.com/projects/baubles/files
+Biome Bundle -- https://minecraft.curseforge.com/projects/biome-bundle/files
 Biomes o Plenty -- https://minecraft.curseforge.com/projects/biomes-o-plenty/files
 Bookshelf -- https://minecraft.curseforge.com/projects/bookshelf/files
 Buildcraft -- https://minecraft.curseforge.com/projects/buildcraft/files
@@ -29,7 +30,7 @@ Extracells 2 -- https://minecraft.curseforge.com/projects/extracells2
 Extreme Reactors -- https://minecraft.curseforge.com/projects/extreme-reactors
 Flans Mod -- http://www.9minecraft.net/flans-mod/
 Forestry -- https://minecraft.curseforge.com/projects/forestry/files
-Forge Multipart CBE -- https://minecraft.curseforge.com/projects/forge-multipart-cbe/files
+Forge Multipart CBE -- https://minecraft.curseforge.com/projects/forge-multipart-cbe/files 
 Funky Locomotion -- https://minecraft.curseforge.com/projects/funky-locomotion/files
 Galacticraft -- https://micdoodle8.com/mods/galacticraft/downloads
 Holoinventory -- https://minecraft.curseforge.com/projects/holoinventory/files
@@ -60,6 +61,7 @@ Open Computers -- https://www.curseforge.com/minecraft/mc-mods/opencomputers/fil
 Open mods lib -- https://minecraft.curseforge.com/projects/openmodslib/files
 Open modular turrets -- https://minecraft.curseforge.com/projects/openmodularturrets
 Openblocks -- https://minecraft.curseforge.com/projects/openblocks/files
+Open terrain generator -- https://minecraft.curseforge.com/projects/open-terrain-generator/files
 Optifine -- https://optifine.net/downloads
 Pneumaticraft Repressurized (duh) -- https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized
 Portalgun -- https://minecraft.curseforge.com/projects/portal-gun

@@ -1,0 +1,3 @@
+echo works
+read 
+pause

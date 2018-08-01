@@ -14,15 +14,6 @@ cls
 echo serverBase folder has been copied and server wil be generated in the server directory
 pause
 cls
-echo A java window will show up soon. Let the server finish building and close it. THAT WINDOW IS NOT THE SERFVER CONSOLE!
-echo You will know when its done when you see this message in the log:
-echo  Done (9,948s)! For help, type "help" or "?"
-echo .
-echo Press enter when the window is closed
-@timeout /t 10
-Start javaw -d64 -Xmx1024M -Xms512M -jar ./minecraft_server.1.12.2.jar
-pause
-cls
-echo click startServer.bat to start the server
+echo click startServer.bat to start the server. the first run will fail in order to propperly generate the world.
 timeout /t 6
 Start ..

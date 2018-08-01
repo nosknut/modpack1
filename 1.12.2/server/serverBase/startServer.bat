@@ -4,8 +4,10 @@ echo Local IP is: %IP:~0,-1%
 echo Press enter to start the server on this ipaddress or Ctrl + c twice follwed by the leter y, then enter twice to close
 
 pause
+cls
 echo the server is set to use minimum RAM of 2048M and maximum 10240M. If you disagree, edit Xmx and Xms near the bottom startServer.bat in notepad
 pause
+cls
 echo Windows has an issue with running java files where it can freeze from time to time
 echo If the server freezes, try typing something in the console and hit enter
 echo if you get the message saying something along the lines of unknown command, the server should be up

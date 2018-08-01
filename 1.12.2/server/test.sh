@@ -1,3 +1,0 @@
-echo works
-read 
-pause

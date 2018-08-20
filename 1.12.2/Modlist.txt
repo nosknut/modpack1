@@ -27,6 +27,8 @@ Endercore -- https://minecraft.curseforge.com/projects/endercore
 Extra Utilities -- https://minecraft.curseforge.com/projects/extra-utilities/files
 Extracells 2 -- https://minecraft.curseforge.com/projects/extracells2
 Extreme Reactors -- https://minecraft.curseforge.com/projects/extreme-reactors
+Ex-Compressum -- https://minecraft.curseforge.com/projects/ex-compressum/files
+Ex-Nihilo -- https://minecraft.curseforge.com/projects/ex-nihilo-creatio/files
 Farseek -- https://minecraft.curseforge.com/projects/farseek/files
 Flans Mod -- http://www.9minecraft.net/flans-mod/
 Forestry -- https://minecraft.curseforge.com/projects/forestry/files
@@ -51,7 +53,6 @@ Mekanism -- http://aidancbrady.com/mekanism/download/
 MekanismGenerators -- http://aidancbrady.com/mekanism/download/
 Mod name tooltip -- https://minecraft.curseforge.com/projects/mod-name-tooltip/files
 MekanismTools -- http://aidancbrady.com/mekanism/download/
-Morph -- https://minecraft.curseforge.com/projects/morph
 Mystcraft -- https://minecraft.curseforge.com/projects/mystcraft
 Natura -- https://minecraft.curseforge.com/projects/natura/files
 Not enough items (NEI) -- https://minecraft.curseforge.com/projects/not-enough-items-1-8
@@ -68,6 +69,7 @@ Portalgun -- https://minecraft.curseforge.com/projects/portal-gun
 Project red -- https://minecraft.curseforge.com/projects/project-red-base
 Realistic Item Drops -- https://minecraft.curseforge.com/projects/realistic-item-drops
 RFTools -- https://minecraft.curseforge.com/projects/rftools/files
+Refined Relocation 2 -- https://minecraft.curseforge.com/projects/refined-relocation-2/files
 Refined storage -- https://minecraft.curseforge.com/projects/refined-storage/files
 Schematica -- https://minecraft.curseforge.com/projects/schematica/files
 Securitycraft -- https://minecraft.curseforge.com/projects/security-craft/files
@@ -84,6 +86,7 @@ Treecapacitor -- http://www.9minecraft.net/treecapitator-mod/
 Tropicraft -- https://minecraft.curseforge.com/projects/tropicraft/files
 Twilight forest -- https://minecraft.curseforge.com/projects/the-twilight-forest
 Valkyrien Warfare -- https://minecraft.curseforge.com/projects/valkyrien-warfare/files
+VeinMiner -- https://minecraft.curseforge.com/projects/veinminer/files
 Zerocore -- https://minecraft.curseforge.com/projects/zerocore
 bdlib -- https://minecraft.curseforge.com/projects/bdlib/files
 cofhcore -- https://minecraft.curseforge.com/projects/cofhcore/files
@@ -112,6 +115,9 @@ Worldedit -- https://minecraft.curseforge.com/projects/worldedit/files
 Chisel -- https://minecraft.curseforge.com/projects/chisel/files
 MFFS -- https://minecraft.curseforge.com/projects/modular-forcefield-system/files
 Nether metals mod -- https://minecraft.curseforge.com/projects/nether-metals
+
+//Because broken with other mod
+Morph -- https://minecraft.curseforge.com/projects/morph
 
 //Because its not needed
 Biomes o Plenty -- https://minecraft.curseforge.com/projects/biomes-o-plenty/files

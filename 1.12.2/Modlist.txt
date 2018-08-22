@@ -98,7 +98,6 @@ immersive petroleum -- https://minecraft.curseforge.com/projects/immersive-petro
 immersive tech -- https://minecraft.curseforge.com/projects/immersive-tech/files
 lunatriuscore -- https://minecraft.curseforge.com/projects/lunatriuscore/files
 mcjtylib -- https://minecraft.curseforge.com/projects/mcjtylib/files
-Mo Creatures -- http://www.9minecraft.net/mocreatures-mod/
 mrtjpcore -- https://minecraft.curseforge.com/projects/mrtjpcore/files
 my Chunk loader (Chicken chunks) -- https://minecraft.curseforge.com/projects/chunkloader-simple
 mystical agriculture(Magical Crops) -- https://minecraft.curseforge.com/projects/mystical-agriculture
@@ -115,6 +114,7 @@ Worldedit -- https://minecraft.curseforge.com/projects/worldedit/files
 Chisel -- https://minecraft.curseforge.com/projects/chisel/files
 MFFS -- https://minecraft.curseforge.com/projects/modular-forcefield-system/files
 Nether metals mod -- https://minecraft.curseforge.com/projects/nether-metals
+Mo Creatures -- http://www.9minecraft.net/mocreatures-mod/ - is nopt official and cause s crashes
 
 //Because broken with other mod
 Morph -- https://minecraft.curseforge.com/projects/morph

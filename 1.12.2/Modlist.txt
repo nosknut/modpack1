@@ -109,6 +109,20 @@ What is that -- https://minecraft.curseforge.com/projects/wit-what-is-that/files
 Worldedit -- https://minecraft.curseforge.com/projects/worldedit/files
 
 
+/testing
+steves carts reborn -- https://minecraft.curseforge.com/projects/steves-carts-reborn/files
+chisels and bits -- https://minecraft.curseforge.com/projects/chisels-bits/files
+modular powersuits -- https://minecraft.curseforge.com/projects/modular-powersuits/files
+chisel -- https://minecraft.curseforge.com/projects/chisel/files
+craft tweaker -- https://minecraft.curseforge.com/projects/crafttweaker/files
+foam fix -- https://minecraft.curseforge.com/projects/foamfix-for-minecraft/files
+magneticraft -- https://minecraft.curseforge.com/projects/magneticraft/files
+connected textures mod -- https://minecraft.curseforge.com/projects/ctm/files
+modelloader -- https://minecraft.curseforge.com/projects/modelloader/files
+reborncore -- https://minecraft.curseforge.com/projects/reborncore/files
+
+
+
 //Not currently in pack (still 1.12.2):
 //Because of crash or corruption
 Chisel -- https://minecraft.curseforge.com/projects/chisel/files
@@ -126,7 +140,6 @@ Biomes o Plenty -- https://minecraft.curseforge.com/projects/biomes-o-plenty/fil
 
 1.10.2
 Gravi suit -- http://www.9minecraft.net/gravitation-suite-addon/
-Modular Powersuits -- https://minecraft.curseforge.com/projects/modular-powersuits/files
 Progressive automation -- https://minecraft.curseforge.com/projects/progressive-automation-early-miner
 Railcraft -- https://minecraft.curseforge.com/projects/railcraft/files
 
